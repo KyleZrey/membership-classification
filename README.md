@@ -1,1 +1,3 @@
 # membership-classification
+
+Different approaches on classifying customers who are most likely to purchase an offer. The said classification approaches are: Support Vector Machines (SVM), k-Nearest Neighbors (kNN), Decision Tree (DT), Logistic with PolynomialFeatures, Logistic, Linear with Polynomial Features, and Linear Classification. Made with Jupyter Notebook, scikit-learn, and other helpful python packages.
